@@ -1,0 +1,2 @@
+0 In Uniform
+1 Not In Uniform
