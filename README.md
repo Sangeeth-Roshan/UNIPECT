@@ -152,9 +152,6 @@ The models are not included in this repo due to file size. You will need to trai
 
 **Sangeeth Roshan**
 [github.com/Sangeeth-Roshan](https://github.com/Sangeeth-Roshan)
+[linkedin.com/in/rsangeethroshan](http://linkedin.com/in/rsangeethroshan)
 
 ---
-
-## License
-
-This project is open source. Add a `LICENSE` file if you intend to share or distribute it (MIT recommended).
