@@ -24,8 +24,6 @@ Both checks run in a background thread so the GUI stays responsive throughout.
 | Uniform, no ID | Red screen — "But you aren't wearing an ID card!" |
 | No uniform | Red screen — "You are not in uniform!" |
 
-> Add a screen recording or GIF here: `![Demo](assets/demo.gif)`
-
 ---
 
 ## Tech stack
